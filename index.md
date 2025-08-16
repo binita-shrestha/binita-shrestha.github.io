@@ -5,7 +5,7 @@ Welcome to my portfolio! If you are interested in any of my work I would love to
 ### FEMA RISK MAP 
 
 [1D Riverine Models](/sample_page)
-<img src="images/fema.jpg?raw=true"/>
+<img src="images/fema1.jpg?raw=true"/>
 <p>Modeled 104.4 miles of river reach (Yocona and Little Tallahatchie Watershed) with a total of 145 
  structures. </p>
 ---
