@@ -21,7 +21,8 @@ Welcome to my portfolio! If you are interested in any of my work I would love to
 ### BRIDGE SCOUR ASSESSMENT
 
 - [MDOT Bridge scour assessment](https://waggonereng.com/project/mdot-hydraulics-master-contract/)
-
+<img src="images/scour.jpg?raw=true"/>
+<p>I was involved in Scour calculations of twin bridges at US 72. I developed a 2D model in SRH2D software.</p>
 
 ---
 
