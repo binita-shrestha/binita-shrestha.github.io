@@ -1,19 +1,20 @@
-## Portfolio
+## My Projects
 
 ---
+Welcome to my portfolio! If you are interested in any of my work I would love to discuss.
+### FEMA RISK MAP 
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[1D Riverine Models](/sample_page)
+<img src="images/fema.jpg?raw=true"/>
+<p>Modeled 104.4 miles of river reach (Yocona and Little Tallahatchie Watershed) with a total of 145 
+ structures. </p>
+---
+[2D Riverine Models](/pdf/sample_presentation.pdf)
+<img src="images/fema2.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Dam inundation models](http://example.com/)
+<img src="images/damin.jpg?raw=true"/>
 
 ---
 
